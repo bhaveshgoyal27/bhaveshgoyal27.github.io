@@ -696,8 +696,8 @@ btn.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
+
 btn1.onclick = function() {
   var modal = document.getElementById("myModal1");
   modal.style.display = "block";
@@ -706,7 +706,6 @@ btn1.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn2.onclick = function() {
@@ -717,7 +716,6 @@ btn2.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn3.onclick = function() {
@@ -728,7 +726,6 @@ btn3.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn4.onclick = function() {
@@ -739,7 +736,6 @@ btn4.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn5.onclick = function() {
@@ -750,7 +746,6 @@ btn5.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn6.onclick = function() {
@@ -761,7 +756,6 @@ btn6.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn7.onclick = function() {
@@ -772,7 +766,6 @@ btn7.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
 
 btn8.onclick = function() {
@@ -783,5 +776,4 @@ btn8.onclick = function() {
     modal.style.display = "none";
   }
 }
-	return false;
 }
